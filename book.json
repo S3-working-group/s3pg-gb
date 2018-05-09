@@ -1,3 +1,7 @@
 {
-    "root": "./src"
+    "root": "./src",
+    "title": "Sociocracy 3.0 - A Practical Guide",
+    "language": "en",
+    "direction": "ltr",
+    "plugins": ["comment"]
 }
