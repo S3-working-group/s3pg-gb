@@ -1,6 +1,6 @@
 ## Consent Decision Making
 
-![right,fit](img/agreements/cdm-condensed.png)
+![right,fit](../../img/agreements/cdm-condensed.png)
 
 **A (facilitated) group process for decision making.**
 

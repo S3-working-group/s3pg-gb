@@ -1,6 +1,6 @@
 ## Domains
 
-![right,fit](img/driver-domain/domains-in-organizations.png)
+![right,fit](/img/driver-domain/domains-in-organizations.png)
 
 {{define:domain}}
 
@@ -21,7 +21,7 @@ Those delegating a domain (the _delegators_) still retain overall accountability
 
 ## Drivers and Domains
 
-![right,fit](img/driver-domain/domain-primay-sub.png)
+![right,fit](/img/driver-domain/domain-primay-sub.png)
 
 A domain can be defined in relation to an organizational driver - known as the domain’s **primary driver** - by the set of sub-drivers the organization may benefit from addressing when responding to that driver: 
 
@@ -32,7 +32,7 @@ A domain can be defined in relation to an organizational driver - known as the d
 
 ## Domains and Accountability
 
-![right,fit](img/driver-domain/nested-domains.png)
+![right,fit](/img/driver-domain/nested-domains.png)
 
 -   accountability applies to all agreements, including the organization itself, circles, and roles
 -   everyone's primary accountability is for effective collaboration in response to organizational drivers
