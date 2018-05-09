@@ -1,7 +1,9 @@
 {
-    "root": "./src",
+    "root": "./gitbook",
     "title": "Sociocracy 3.0 - A Practical Guide",
     "language": "en",
     "direction": "ltr",
+    "descriuption": "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts.",
+    "author": "Bernhard Bockelbrink, James Priest and Liliana David",
     "plugins": ["comment"]
 }
